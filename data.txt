@@ -1,5 +1,5 @@
 info : data
 start
-work : 
+work: 
 task 1
 end
