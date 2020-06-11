@@ -1,12 +1,5 @@
 info: File A
 
-<<<<<<< HEAD
-Fix some bug 1
-
-add feature 1
-
-add feature 3
-=======
 add feature 2 before 1
 
 Fix some bug 1
@@ -14,4 +7,3 @@ Fix some bug 1
 add feature 1
 
 add feature 3
->>>>>>> e113259... ex14 commit1 : master mise à jour fileA.txt
