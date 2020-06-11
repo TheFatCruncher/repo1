@@ -1,10 +1,16 @@
 info : data
 start
+<<<<<<< HEAD
 work
 //new sesction
 Start : sub
 	Task Text
 End :Sub
+=======
+work:
+//add task zero
+task zero
+>>>>>>> ec8915b00d4993b9f9011682b50684a0bd9159d9
 task un
 task deux
 end
